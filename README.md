@@ -3,7 +3,7 @@ This repository contains a sample Azure multi-container Docker application.
 
 * service-a: Angular.js sample application with Node.js backend 
 * service-b: ASP .NET Core sample service
-
+* service-c: Nothing added
 ## Run application locally
 First, compile the ASP .NET Core application code. This uses a container to isolate build dependencies that is also used by VSTS for continuous integration:
 
